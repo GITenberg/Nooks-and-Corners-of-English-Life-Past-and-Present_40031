@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40389'
     url: http://www.gutenberg.org/2009/agents/40389
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40031#Nooks-and-Corners-of-English-Life-Past-and-Present
 gutenberg_issued: '2012-06-20'
 gutenberg_type: Text
 identifiers:
